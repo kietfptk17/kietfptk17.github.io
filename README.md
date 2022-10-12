@@ -13,20 +13,20 @@
 	<!Chen hinh anh, 50% (=) giam hinh anh di 50%>
 	<!figcaption là để ghi caption cho picture>
 	<figure>
-		<img src = "C:\Users\ACER\Pictures\Camera Roll\abc.jpg"
+		<img src = "abc.jpg"
 			 width = "50%" alt = "My GF">
 		<figcaption> Kiệt yêu Liễu rất nhiều </figcaption>
 	</figure>
 	<br>
 	<h1>Video Của Kiệt Và Liễu</h1>
 	<!controls: Thêm thanh tua pause các thứ>
-	<video src="C:\Users\ACER\Downloads\WED201c(Web Design)\videoTest.mp4" width="50%" controls>
+	<video src="videoTest.mp4" width="50%" controls>
 				Your browser does not support the <code>video</code>
 				element.
 	</video>
 	<h1>Test Song</h1>
 	<br>
-	<audio src="C:\Users\ACER\Downloads\WED201c(Web Design)\audioTest.mp3" controls>
+	<audio src="audioTest.mp3" controls>
 				Một Triệu Khả Năng Song
 	</audio>
 	<br>
